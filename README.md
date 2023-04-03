@@ -34,3 +34,19 @@ código.
 
 <img src="https://maker.pro/storage/DVg0WyQ/DVg0WyQosKGEWhE2i5hxG6MlJoRwBnViabYnj1lb.jpeg" width="500" height="300">
 
+
+
+-Placas utilizadas para o desenvolvimento
+
+Arduino Uno
+
+<img src="https://www.ralcomp.com.br/wp-content/uploads/2016/06/arduino_quad.jpg" width="300" height="300">
+
+
+
+Esp 32
+
+<img src="https://http2.mlstatic.com/D_NQ_NP_725002-MLB31045367716_062019-O.jpg" width="300" height="300">
+
+
+Obs: Dentro do repositório existem um PDF que informa as especificações de cada placa, documentaç
